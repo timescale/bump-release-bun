@@ -1,0 +1,6 @@
+.claude/*.local.*
+.env
+.idea
+node_modules
+package-lock.json
+download/
